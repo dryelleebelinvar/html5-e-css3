@@ -20,5 +20,5 @@
 🖱 [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/demos/demos.html)  
 🖱 [Roadmap - cronograma](https://roadmap.sh/)  
 🖱 [Digital Inovation One - bootcamps](https://www.dio.me/)  
-🖱 [Silent Teacher](https://silentteacher.toxicode.fr/)  
 🖱 [Tags HTML](https://www.homehost.com.br/blog/tutoriais/tags-html/)  
+🖱 [CSS gradient](https://cssgradient.io/)  
