@@ -23,3 +23,4 @@
 🖱 [Tags HTML](https://www.homehost.com.br/blog/tutoriais/tags-html/)  
 🖱 [CSS gradient](https://cssgradient.io/)  
 🖱 [Frontend Mentor - desafios](https://www.frontendmentor.io/)  
+🖱 [Remix Icon](https://remixicon.com/)  
